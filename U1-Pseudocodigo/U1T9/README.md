@@ -1,0 +1,1 @@
+# Pseudocodigo: Funciones matemáticas
