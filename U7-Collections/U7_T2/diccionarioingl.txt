@@ -1,0 +1,4 @@
+hola, hello
+mundo, world
+gracias, thanks
+adios, bye
