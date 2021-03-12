@@ -1,0 +1,3 @@
+MenorDeEdadException: Imposible crear el usuario con DNI 12345678Q. El cliente no puede ser menor de edad (Edad indicada: 17).
+EdadErroneaException: Imposible crear el usuario con DNI 293890283R. La edad no puede ser negativa o mayor de 100 (Edad indicada: 110).
+EdadErroneaException: Imposible crear el usuario con DNI 03944772V. La edad no puede ser negativa o mayor de 100 (Edad indicada: -4).
