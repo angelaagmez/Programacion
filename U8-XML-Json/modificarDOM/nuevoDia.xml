@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+        
+
+    <dia nombre="Martes">
+        <tramo>PROG</tramo>
+        <tramo>PROG</tramo>
+        <tramo>BD</tramo>
+        <tramo>BD</tramo>
+        <tramo>SI</tramo>
+        <tramo>FOL</tramo>
+    </dia>
+</horario>
