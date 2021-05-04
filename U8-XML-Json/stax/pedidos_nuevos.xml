@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+	<pedido id="1">
+		<nombrePedido>Café</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>100.0</precio>
+		<cantidad>2</cantidad>
+	</pedido>
+	<pedido id="2">
+		<nombrePedido>Leche</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>10.0</precio>
+		<cantidad>5</cantidad>
+	</pedido>
+	<pedido id="3">
+		<nombrePedido>Lentejas</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>120.0</precio>
+		<cantidad>10</cantidad>
+	</pedido>
+	<pedido id="4">
+		<nombrePedido>Garbanzos</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>12.0</precio>
+		<cantidad>7</cantidad>
+	</pedido>
+	<pedido id="5">
+		<nombrePedido>Agua</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>1.0</precio>
+		<cantidad>1</cantidad>
+	</pedido>
+	<pedido id="6">
+		<nombrePedido>Vino</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>25.0</precio>
+		<cantidad>9</cantidad>
+	</pedido>
+	<pedido id="7">
+		<nombrePedido>Galletas</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>250.0</precio>
+		<cantidad>6</cantidad>
+	</pedido>
+	<pedido id="8">
+		<nombrePedido>Zumo</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>26.0</precio>
+		<cantidad>3</cantidad>
+	</pedido>
+	<pedido id="9">
+		<nombrePedido>Macarrones</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>10.0</precio>
+		<cantidad>4</cantidad>
+	</pedido>
+	<pedido id="10">
+		<nombrePedido>Arroz</nombrePedido>
+		<fecha>01/04/2020</fecha>
+		<precio>12.0</precio>
+		<cantidad>1</cantidad>
+	</pedido>
+</pedidos>

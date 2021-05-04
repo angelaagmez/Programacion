@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <!-- Lista de paises -->
+    <pais id="ESP">
+        <nombre>España</nombre>
+        <capital>Madrid</capital>
+        <poblacion>47.000.000</poblacion>
+    </pais>
+    <pais id="FR">
+        <nombre>Francia</nombre>
+        <capital>París</capital>
+        <poblacion>67.000.000</poblacion>
+    </pais>
+    <pais id="ALM">
+        <nombre>Alemania</nombre>
+        <capital>Berlin</capital>
+        <poblacion>83.000.000</poblacion>
+    </pais>
+    <pais id="ITL">
+        <nombre>Italia</nombre>
+        <capital>Roma</capital>
+        <poblacion>60.000.000</poblacion>
+    </pais>
+    <pais id="HLD">
+        <nombre>Holanda</nombre>
+        <capital>Amsterdan</capital>
+        <poblacion>17.000.000</poblacion>
+    </pais>
+</paises>
