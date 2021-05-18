@@ -1,0 +1,38 @@
+teoria/transaccion/Office.java
+ teoria.transaccion.Office
+teoria/SimpleQuery.java
+ teoria.SimpleQuery
+teoria/transaccion/ConexionBD.java
+ teoria.transaccion.ConexionBD
+teoria/transaccion/Employee.java
+ teoria.transaccion.Employee
+teoria/transaccion/teoria.java
+ teoria.transaccion.teoria
+teoria/transaccion/EmployeeModel.java
+ teoria.transaccion.EmployeeModel
+teoria/SQLInjection.java
+ teoria.SQLInjection
+teoria/transaccion/OfficeModel.java
+ teoria.transaccion.OfficeModel
+teoria/transaccion/Main.java
+ teoria.transaccion.Main
+teoria/AccesoDatos.java
+ teoria.AccesoDatos
+ejercicios/Employee.java
+ ejercicios.Employee
+ejercicios/Office.java
+ ejercicios.Office
+ejercicios/ConexionBD.java
+ ejercicios.ConexionBD
+ejercicios/ADClassicModels.java
+ ejercicios.ADClassicModels
+ejercicios/Main.java
+ ejercicios.Main
+entregable/ConexionDB.java
+ entregable.ConexionDB
+entregable/Consultas.java
+ entregable.Consultas
+entregable/Main.java
+ entregable.Main
+entregable/Transacciones.java
+ entregable.Transacciones
